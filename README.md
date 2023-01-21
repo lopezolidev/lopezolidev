@@ -13,13 +13,10 @@
   </h1>
 </div>
 
----
-
 <div align="center">
   <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="200" height="200"/>
 </div>
 
----
 
 ### :man_technologist: About Me : 
 - I am a Web Developer enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Venezuela.
