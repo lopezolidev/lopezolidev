@@ -24,7 +24,7 @@
 
 - 🌱 I’m currently learning React and NodeJS.
 
-- :zap: In my free time, I solve problems on CodeWars and logic riddles.
+- :zap: In my free time, I solve problems on Leetcode and logic riddles.
 
 ---
 
